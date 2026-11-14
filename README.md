@@ -36,6 +36,25 @@ Currently AI Engineer at **theAppPlace (TAP) Innovations** (since June 2026). Mo
 
 Also: LangChain · LangGraph · RAG · vector databases · LangSmith · Playwright
 
+### 📊 GitHub Analytics
+
+Public activity only; most of my work at TAP is in private client repos.
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manohar-kumar1&theme=tokyonight" alt="GitHub profile details: contributions over the last year, public repos, join date" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manohar-kumar1&theme=tokyonight" alt="Top languages by repository" /></td>
+    <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manohar-kumar1&theme=tokyonight&utcOffset=5.5" alt="Commits by hour of day, UTC+5:30" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manohar-kumar1&theme=tokyonight" alt="Stats: total stars, commits, pull requests, issues, contributed repos" /></td>
+    <td width="50%"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manohar-kumar1&theme=tokyonight" alt="Top languages by commit" /></td>
+  </tr>
+</table>
+
 ### Work with me
 
 Open to **full-time AI / GenAI / full-stack roles** (India or remote) and **freelance AI projects**.
