@@ -31,10 +31,10 @@ Currently AI Engineer at **theAppPlace (TAP) Innovations** (since June 2026). Mo
 **Frameworks & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,langchain,nextjs,react,nodejs,express,tailwind,postgres,mongodb,azure,git&perline=11" alt="Frameworks and tools: FastAPI, LangChain, Next.js, React, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Azure, Git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,express,tailwind,postgres,mongodb,azure,git&perline=10" alt="Frameworks and tools: FastAPI, Next.js, React, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Azure, Git" />
 </p>
 
-Also: LangGraph · RAG · vector databases · LangSmith · Playwright
+Also: LangChain · LangGraph · RAG · vector databases · LangSmith · Playwright
 
 ### Work with me
 
