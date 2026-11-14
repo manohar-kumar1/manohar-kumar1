@@ -1,15 +1,16 @@
-### Hi, I'm Manohar Kumar 👋
+<!-- Owner: Manohar Kumar. Last reviewed: 2026-11-14.
+     Review when: a new project ships, a role change, a job search starts, or a portfolio redeploy. -->
+
+### Hi, I'm Manohar 👋
 
 **AI Engineer building LLM agents and RAG systems with LangGraph + FastAPI, and the Next.js apps around them.**
 I turn LLM prototypes into production AI apps — agents, retrieval pipelines and full-stack products that actually ship.
 
-Currently working as an AI Engineer. Most of my day-to-day work is in private client repositories, so the projects below are my public side of it.
+Currently AI Engineer at **theAppPlace (TAP) Innovations** (since June 2026). Most of my day-to-day work is in private client repositories, so the projects below are my public side of it.
 
 ### Start here
 
 - **[agrobot](https://github.com/manohar-kumar1/agrobot)** — agentic RAG API for farmers. A LangGraph workflow classifies intent (disease, scheme or both), retrieves from Chroma, reranks, and answers with Mistral, with citations. FastAPI backend.
-- **[Black_coffer](https://github.com/manohar-kumar1/Black_coffer)** — MERN data-visualization dashboard with JWT auth and interactive charts. [Live demo](https://projects-dashboard.netlify.app/).
-- **[Licence-Plate-Recognition-System-](https://github.com/manohar-kumar1/Licence-Plate-Recognition-System-)** — license plate detection and OCR pipeline with OpenCV and EasyOCR.
 
 ### What I've shipped at work
 
@@ -43,6 +44,8 @@ Currently working as an AI Engineer. Most of my day-to-day work is in private cl
 </p>
 
 ### 📊 GitHub Analytics
+
+Public activity only; most of my work at TAP is in private client repos.
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manohar-kumar1&theme=tokyonight" alt="GitHub profile details: contributions over the last year, public repos, join date" />
