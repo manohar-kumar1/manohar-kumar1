@@ -43,6 +43,7 @@ The tools I use most, from AI layer to frontend:
 Roughly where my time goes (my own estimate, not measured):
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {"pie1": "#22D3EE", "pie2": "#3B82F6", "pie3": "#A78BFA", "pieTitleTextColor": "#8B949E", "pieLegendTextColor": "#8B949E", "pieSectionTextColor": "#0B0F14", "pieStrokeColor": "#30363D"}}}%%
 pie showData
     title Where my engineering time goes
     "LLM agents & RAG" : 45
